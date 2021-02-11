@@ -24,6 +24,10 @@ body {
   text-align: center; */
 }
 
+.logic{
+  min-height: 500px;;
+}
+
 .abc {
   background-color: white;
   color: purple;
